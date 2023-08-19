@@ -1,0 +1,16 @@
+:root {
+  /* colors  */
+
+  /* header */
+  --headerBgcColor: #292929;
+  --headerTextColor: #ffffff;
+  --ClickedColor: #58c93a;
+
+  /* main */
+  --headingColor: #4f4e4e;
+  --paragraphColor: #606060;
+  --btnColor: #c2c1c1;
+  --btnClickColor: #58c93a;
+
+  --controlpagebtnscolor: #818181;
+}

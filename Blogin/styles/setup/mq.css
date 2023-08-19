@@ -1,0 +1,32 @@
+@media (max-width: 920px) {
+  header {
+    height: 80px;
+  }
+  header nav {
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+  header .logo {
+    margin-inline-end: 3rem;
+  }
+
+  main article {
+    height: 50%;
+  }
+  main article h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.3rem;
+  }
+  main article p {
+    margin-bottom: 0.2rem;
+  }
+}
+@media (max-width: 800px) {
+  .grid-main {
+    grid-template-columns: 100%;
+    row-gap: 10px;
+  }
+  main article div {
+    margin-bottom: 2rem;
+  }
+}

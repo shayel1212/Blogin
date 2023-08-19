@@ -1,0 +1,13 @@
+/* set up */
+@import url(/styles/setup/vars.css);
+@import url(/styles/setup/typography.css);
+
+@import url(/styles/Basics/base.css);
+@import url(/styles/Basics/layout.css);
+@import url(/styles/Basics/helpers.css);
+
+@import url(/styles/components/main-header.css);
+@import url(/styles/components/main.css);
+@import url(/styles/components/footer.css);
+
+@import url(/styles/setup/mq.css);

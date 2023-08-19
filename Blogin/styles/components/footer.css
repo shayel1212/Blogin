@@ -1,0 +1,11 @@
+footer {
+  height: 300px;
+}
+.social-links {
+  color: black;
+  width: 200px;
+  padding: 0;
+}
+.social-links img:hover {
+  background-color: #516fad;
+}
